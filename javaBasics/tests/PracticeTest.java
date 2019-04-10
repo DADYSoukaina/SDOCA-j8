@@ -1,8 +1,8 @@
 // result is 14/17, 82% Pass
 		/**
-		 * 1. 
-		 * 9.
-		 * 14.
+		 * 1. make attention to the naming of parameter and variable (can't declare a variable inside a method with the same name of the method parameter)
+		 * 9. From java 8 interface can have both default and static non abstract methods. From them default methods are inherited, since we can implement as many as interfaces, java 8 has form of multiple inheritance.
+		 * 14. Class without main method, static { // code } executed but in the code there is System.exit(0) statement wish terminates JVM, so we don't get any error with this program / code causes an error not an exception.
 		 */
 
 
