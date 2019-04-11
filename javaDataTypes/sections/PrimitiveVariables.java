@@ -56,6 +56,7 @@ public class PrimitiveVariables {
 //		long var5 = 0xa10_AG_75;
 		long var6 = 0x1_0000_10;
 		long var7 = 100__12-12;
+//		
 		
 		
 	}
